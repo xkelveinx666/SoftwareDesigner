@@ -1,4 +1,7 @@
 {
   "name": "",
-  "version": ""
+  "version": "",
+  "devDependencies": {
+    "gitbook": "^3.2.3"
+  }
 }
